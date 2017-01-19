@@ -18,7 +18,7 @@
   obj.key1 = 'prop1';
   obj.key2 = 'prop2';
   ```
-  - outra forma (bônus!):
+  - c:
   ```javascript
   var obj = {};
   obj['key1'] = 'prop1';
